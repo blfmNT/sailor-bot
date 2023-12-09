@@ -1,6 +1,6 @@
 # sailor-bot
 
-### Sailor discord bot allow your users create their own voice rooms with needed sizes depends on type of 'boat'.
+### Sailor discord bot based on discordpy lib allows your users create their own voice rooms with needed sizes depends on type of 'boat'.
 
 Create discord bot, invite on your server and put it's token to .env file in the same folder with
 
